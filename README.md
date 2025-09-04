@@ -91,3 +91,9 @@ PLANiT is a React Native CLI app that helps users manage tasks efficiently. User
 
 2. Currently, sync is simulated locally. In a real-world app, this would push/pull tasks from a backend API
 3. I have set the push notifications to 1 min after adding a new task for testing purpose.
+
+## Watch App Demo and Screenshot
+
+1. src/assets/videos/app-demo.mp4
+2. src/assets/screenshots/screenshot.jpg
+
