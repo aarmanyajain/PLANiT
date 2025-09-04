@@ -83,3 +83,11 @@ PLANiT is a React Native CLI app that helps users manage tasks efficiently. User
 - Offline storage & sync
 - Local notifications for reminders
 - Dark mode toggle
+
+
+## PS:
+
+1. I couldn’t complete the unit testing due to tight deadlines and having to finish the app overnight for next day office work commitments.
+
+2. Currently, sync is simulated locally. In a real-world app, this would push/pull tasks from a backend API
+3. I have set the push notifications to 1 min after adding a new task for testing purpose.

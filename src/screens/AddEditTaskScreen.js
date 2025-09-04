@@ -46,7 +46,7 @@ export default function AddEditTaskScreen({ route, navigation }) {
 
       const trigger = {
         type: TriggerType.TIMESTAMP,
-        timestamp: Date.now() + 10 * 1000,
+        timestamp: Date.now() + 60 * 1000,
       };
 
       await notifee.createTriggerNotification(
